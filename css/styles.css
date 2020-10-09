@@ -1,0 +1,159 @@
+*{
+    font-family: Avenir;
+}
+
+.nav-link{
+    color: black;
+}
+
+#moni{
+    color: black;
+}
+
+#contact{
+    color: black;
+}
+
+.signin{
+    
+    margin-right: 10px;
+}
+.row{
+    
+}
+
+.signup{
+    
+    border-radius: 5px;
+}
+
+#title{
+    background-color: #d9ecf2;
+    
+}
+
+.easy{
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 900;
+}
+
+.spend{
+    font-size: 2.5rem;
+    line-height: 1;
+    font-weight: 900;
+}
+
+.earn{
+    font-size: 18px;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.reward{
+    margin-top: 100px;
+} 
+
+#advert{
+    margin-bottom: 30px;
+}
+
+.point{
+    font-size: 22px;
+}
+.pointapp{
+    font-size: 20px;
+    color: #1F3569;
+}
+
+.create{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.starting{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    
+}
+
+#merchants{
+    background-color:  #d9ecf2;
+    margin-top: 50px;
+}
+
+#merchants .stores{
+    margin-top: 20px;
+    padding-top: 30px;
+}
+
+.carousel-inner{
+    margin-top: 20px;
+}
+
+#download{
+    margin-top: 30px;
+}
+
+#footer{
+    background-color:#d9ecf2 ;
+    margin-top: 20px;
+}
+
+#foot{
+    margin-top: 30px;
+}
+
+.col{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.col img{
+    margin-bottom: 30px;
+}
+
+
+
+
+#account{
+    background-color:#d9ecf2 ;
+    height: 100%;
+}
+#account .form-group{
+    margin-top: 20px;
+}
+#account .form-control{
+    width: 40%;
+    margin: 0 auto;
+}
+
+#account img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#account .privacy{
+    margin: 0 auto;
+    text-align: left;
+}
+
+#account .names{
+    margin-right:28%;
+}
+
+#account .creating{
+    margin-top: 20px;
+}
+
+#about .about-moni{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#about{
+    background-color: #d9ecf2;
+    
+}
